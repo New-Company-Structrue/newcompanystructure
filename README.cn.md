@@ -2,8 +2,6 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/New-Company-Structrue/newcompanystructure)
 
-newcompanystructure 样式
-
 新型公司架构是一个基于区块链技术建立的平台系统，用于管理公司企业的日常运作。它的使用对象包括IT软件公司，地产行业，学校，工厂，酒店，购物超市等工作单位，几乎所有你能想到的工作场所，都可以使用该系统。本系统大胆创新，采用了独特的设计思路，该项目主要有以下一些内容：
 
 1. 取代了人类组织架构中原始的金字塔模型，采用所有员工投票表决
